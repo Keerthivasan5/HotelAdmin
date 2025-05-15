@@ -17,7 +17,7 @@ export default function TodayItemScreen({ route }) {
   const initialMenuItems = {
     Breakfast: [
       'Idli', 'Dosa', 'Pongal', 'Pniyaram', 'Poori',
-      'Chapathi', 'Upma', 'Podi Idli', 'Vada',
+      'Chapathi', 'Pongal', 'Podi Idli', 'Vada',
     ],
     Lunch: [
       'Veg Thali', 'Chicken Curry', 'Rice & Sambar', 'Tomato Rice', 'Curd Rice',
