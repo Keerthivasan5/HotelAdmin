@@ -16,7 +16,7 @@ export default function TodayItemScreen({ route }) {
 
   const initialMenuItems = {
     Breakfast: [
-      'Idli', 'Dosa', 'Pongal', 'Pniyaram', 'Poori',
+      'Idli', 'Dosa', 'Pongal', 'Paniyaram', 'Poori',
       'Chapathi', 'Pongal', 'Podi Idli', 'Vada',
     ],
     Lunch: [
